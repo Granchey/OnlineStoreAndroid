@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021737515409",
+    "project_id": "onlinestoreandroid",
+    "storage_bucket": "onlinestoreandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021737515409:android:57be6776f482bfbb720230",
+        "android_client_info": {
+          "package_name": "com.vivo_cloud.onlinestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0EzQKvk29oholrrKMMkzgISB9HA1qlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
